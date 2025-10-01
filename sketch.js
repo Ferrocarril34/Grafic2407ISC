@@ -14,9 +14,9 @@ function draw() {
   fill(74, 209, 56);
   rect(0, 200, 650, 200);
  
-  //emojis
+   //emojis
   textSize(75)
-  text("🍔", 60, 250) 
-  text("🐞", mouseX, mouseY) //ladybug
-  text("💩", 180, 200) 
+  text("🐟", 60, 250) 
+  text("☠️", mouseX, mouseY) //ladybug
+  text("🦒", 180, 200) 
 }
